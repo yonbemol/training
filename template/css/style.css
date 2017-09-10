@@ -8130,4 +8130,11 @@ button.close {
   overflow: visible;
   clip: auto; }
 
+.navbar {
+  margin-bottom: 0; }
+
+.showcase {
+  background: url(../img/bookBinding1920x1280.jpg) no-repeat;
+  height: 600px; }
+
 /*# sourceMappingURL=style.css.map */
